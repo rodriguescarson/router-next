@@ -1,5 +1,5 @@
 {
-  "name": "hello-world",
+  "name": "router-next",
   "private": true,
   "scripts": {
     "dev": "next dev",
